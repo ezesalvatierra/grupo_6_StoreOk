@@ -3,7 +3,9 @@ En StoreOk, estamos comprometidos en proporcionarte la mejor experiencia de comp
 
 
 **Integrantes del grupo de trabajo:**
-- Ezequiel Salvatierra
+
+- **Ezequiel Salvatierra**
+Hola, mi nombre es Ezequiel Salvatierra. Tengo 19 años y soy estudiante. Soy un entusiasta de la programación y me gusta curiosear sobre cómo funcionan las tecnologías que utilizamos a diario. También me gusta jugar videojuegos y tocar la guitarra.
 
 
 **Sitios de referencia:**
