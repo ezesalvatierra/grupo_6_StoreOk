@@ -7,6 +7,8 @@ En StoreOk, estamos comprometidos en proporcionarte la mejor experiencia de comp
 - **Ezequiel Salvatierra**
 Hola, mi nombre es Ezequiel Salvatierra. Tengo 19 años y soy estudiante. Soy un entusiasta de la programación y me gusta curiosear sobre cómo funcionan las tecnologías que utilizamos a diario. También me gusta jugar videojuegos y tocar la guitarra.
 
+** Fernando López***
+Hola, tengo 50 años soy ingeniero en sistemas, trabajando en un hotel y ademas doy clases, tengo trabajos particulares de desarrollos de sistemas y mi deseo es aprender siempre. 
 
 **Sitios de referencia:**
 
