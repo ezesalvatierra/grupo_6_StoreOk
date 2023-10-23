@@ -10,6 +10,9 @@ Hola, mi nombre es Ezequiel Salvatierra. Tengo 19 años y soy estudiante. Soy un
 ** Fernando López***
 Hola, tengo 50 años soy ingeniero en sistemas, trabajando en un hotel y ademas doy clases, tengo trabajos particulares de desarrollos de sistemas y mi deseo es aprender siempre. 
 
+**Arturo Aguirre Robin**
+Hola, nombre es Arturo Aguirre Robin, tengo 41 años, soy mecánico, me gusta todo lo relacionado a la programación, me gusta aprender sobre todo tipo de tema y me gusta capacitarme para crecer dia a dia como profesional, en este caso me estoy iniciando en el area de programación.
+
 **Sitios de referencia:**
 
 https://compragamer.com
