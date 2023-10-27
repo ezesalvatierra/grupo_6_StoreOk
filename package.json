@@ -1,0 +1,15 @@
+{
+  "name": "grupo_6_storeok",
+  "version": "1.0.0",
+  "description": "**Descripcion de StoreOk:**\r En StoreOk, estamos comprometidos en proporcionarte la mejor experiencia de compra en línea para componentes de PC en todo el país, con un enfoque especial en servir a los apasionados de la tecnología y los amantes de los juegos en Catamarca y en todo el territorio argentino.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
