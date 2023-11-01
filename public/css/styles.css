@@ -1,0 +1,132 @@
+body {
+margin: 0;
+padding: 0;
+
+/*#5DF21D verde
+#F0601F naranja
+#1F2AEF azul 
+#474B9E
+#41702D
+*/
+
+}
+
+header {
+    background-color:#1F2AEF; /* Color de fondo del encabezado */
+    color: #fff; /* Color de texto en el encabezado */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    
+}
+.container-search {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    margin: 20px;
+    justify-content: space-around;
+}
+
+.buscar{
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+
+.buscar_boton {
+    padding: 10px 20px;
+    background-color: 474B9E;
+    color: #1F2AEF;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.buscar_boton:hover {
+    background-color: #0B166E; /* Cambia el color cuando se pasa el cursor sobre el botón */
+}
+
+
+
+/* Estilo para el logotipo */
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #5DF21D; /* Color de fondo del menú */
+    color: #000; /* Color de texto en el menú */
+}
+
+.menu {
+    list-style: none; /* Elimina las viñetas de la lista */
+    padding: 0;
+    margin: 0;
+    text-align: center; /* Alinea las opciones del menú en el centro */
+    font-weight: bold;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px; /* Espacio entre las opciones del menú */
+}
+
+.menu a {
+    color: #000; /* Color del texto de las opciones del menú */
+    text-decoration: none; /* Elimina los subrayados de los enlaces */
+}
+
+/* Estilo para la información de sesión del usuario */
+.user-session p {
+    margin: 0; /* Elimina el margen predeterminado de los párrafos */
+    font-weight: bold; /* Puedes personalizar la fuente y otros estilos */
+    text-align: right; /* Alinea el texto a la derecha */
+}
+
+
+
+
+
+.footer {
+    background-color: #1F2AEF;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+}
+
+.column h2 {
+    font-size: 18px;
+    color:#5DF21D;
+}
+
+.column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.column ul li {
+    margin-bottom: 5px;
+}
+
+.column a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Estilos para enlaces */
+.column a:hover {
+    text-decoration: underline;
+}
+
